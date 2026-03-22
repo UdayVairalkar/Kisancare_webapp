@@ -69,4 +69,4 @@ Body: { "command": "weather information", "language": "en" }
 ## File Upload Limits
 
 - Maximum file size: 10MB
-- Supported formats: JPEG, PNG, JPG, WebP
+- Supported formats: jpg pdf img
