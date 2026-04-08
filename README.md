@@ -1,4 +1,4 @@
-# Smart Crop Advisory Backend API
+# Smart Crop Advisory Backend 
 
 A comprehensive backend API for the Smart Crop Advisory system designed for Indian farmers. Built with Next.js API routes.
 
