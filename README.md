@@ -1,8 +1,7 @@
 # Smart Crop Advisory Backend 
 
 A comprehensive backend API for the Smart Crop Advisory system designed for Indian farmers. Built with Next.js API routes.
-
-## Features
+ Features
 
 - **Weather Data**: Real-time weather information using OpenWeatherMap API
 - **Crop Advisory**: Seasonal crop recommendations based on location
